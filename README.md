@@ -19,7 +19,7 @@ __Scale images by a maximum width/height, by percent, or generate thumbnails.__
 
 ![scale](screenshots/scale.png)
 
-__Rotate images (counter-clockwise)__
+__Rotate images (clockwise)__
 
 ![rotate](screenshots/rotate.png)
 
