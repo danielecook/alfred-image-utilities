@@ -29,7 +29,7 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Image Utilities</string>
+	<string>Alfred Image Utilities</string>
 	<key>objects</key>
 	<array>
 		<dict>

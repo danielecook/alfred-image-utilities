@@ -166,7 +166,7 @@ def main(wf):
 if __name__ == '__main__':
     # Create a global `Workflow` object
     wf = Workflow3(update_settings = {
-        'github_slug': 'danielecook/image-utilities',
+        'github_slug': 'danielecook/alfred-image-utilities',
         'version': __version__,
         'frequency': 7
         })
