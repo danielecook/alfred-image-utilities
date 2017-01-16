@@ -121,7 +121,7 @@ def main(wf):
         it = wf.add_item(title, valid = True, arg = json.dumps(arg), icon = "scale.png")
 
     elif args[0] == u'convert':
-        for format in ['png', 'jpg', 'tif']: 
+        for format in ['png', 'jpg']: 
             arg.update({"action": "convert",
                         "to_format": format,
                         "modifier": None})
