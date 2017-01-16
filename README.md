@@ -10,19 +10,25 @@ __Main Menu__
 
 __Convert to png or jpg__
 
-You can convert from a large number of formats to these jpg or png. The original file is retained unless you hold <kbd>command</kbd>
+You can convert from a large number of formats to these jpg or png. The original file is retained unless you hold <kbd>command</kbd>.
 
 ![convert](screenshots/convert.png)
 
 __Scale images by a maximum width/height, by percent, or generate thumbnails.__
 
+Hold <kbd>command</kbd> to replace original. This option is not available when generating thumbnails. Generating thumbnails will add a `.thumb` to the filename (`<filename>.thumb.<ext>`)
+
 ![scale](screenshots/scale.png)
 
 __Rotate images (clockwise)__
 
+Hold <kbd>command</kbd> to replace original.
+
 ![rotate](screenshots/rotate.png)
 
 __Convert images to black and white.__
+
+Hold <kbd>command</kbd> to replace original.
 
 ![color](screenshots/color.png)
 
