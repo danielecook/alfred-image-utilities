@@ -2,6 +2,8 @@
 
 A workflow for making quick changes to files. Most of the time a copy of the image is made and its extension is changed to '.orig.ext'. You can remove the original file by holding <kbd>command</kbd> when executing most commands.
 
+# [Download](https://github.com/danielecook/alfred-image-utilities/releases/latest)
+
 __Main Menu__
 
 ![home](screenshots/home.png)
